@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/your-linkedin/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
-    <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-DvlprJavier@gmail.com-blue?style=flat&logo=gmail"></a>
+    <a href="[https://www.linkedin.com/in/your-linkedin/](https://www.linkedin.com/in/javiercastillodev/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin"></a>
+    <a href="mailto:javiercastillo.5445@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-javiercastillo.5445@gmail.com-blue?style=flat&logo=gmail"></a>
     <a href="https://javierdvlpr.github.io/"><img alt="Portfolio Website" src="https://img.shields.io/badge/Portfolio-javierdvlpr.github.io-green?style=flat&logo=github"></a>
 </p>
 
